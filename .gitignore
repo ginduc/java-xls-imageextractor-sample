@@ -9,4 +9,7 @@ gradle-app.setting
 !gradle-wrapper.jar
 
 .idea
+*.ipr
+*.iws
+*.iml
 
